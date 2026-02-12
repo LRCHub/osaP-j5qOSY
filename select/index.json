@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "CATCH ME",
+  "base_artist": "THE ORAL CIGARETTES",
+  "createdAt": "2026-02-12T13:56:29.165166Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Catch Me",
+      "artist": "Nicki Minaj",
+      "has_synced": false,
+      "path": "select/01_Catch_Me_Nicki_Minaj.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Catch Me (feat. Naaz)",
+      "artist": "Yellow Claw feat. Flux Pavilion & Naaz",
+      "has_synced": true,
+      "path": "select/02_Catch_Me_(feat._Naaz)_Yellow_Claw_feat._Flux_Pavilion_&_Naaz.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Catch Me (feat. Naaz)",
+      "artist": "Yellow Claw & Flux Pavilion",
+      "has_synced": true,
+      "path": "select/03_Catch_Me_(feat._Naaz)_Yellow_Claw_&_Flux_Pavilion.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Catch Me If You Can",
+      "artist": "Eric Clapton",
+      "has_synced": true,
+      "path": "select/04_Catch_Me_If_You_Can_Eric_Clapton.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Catch Me In The Meadow",
+      "artist": "The Tradewinds",
+      "has_synced": false,
+      "path": "select/05_Catch_Me_In_The_Meadow_The_Tradewinds.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Pray You Catch Me",
+      "artist": "Beyoncé",
+      "has_synced": true,
+      "path": "select/06_Pray_You_Catch_Me_Beyoncé.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Catch Me I'm Falling",
+      "artist": "The Chemical Brothers",
+      "has_synced": true,
+      "path": "select/07_Catch_Me_I'm_Falling_The_Chemical_Brothers.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Catch Me If You Can",
+      "artist": "The Cranberries",
+      "has_synced": true,
+      "path": "select/08_Catch_Me_If_You_Can_The_Cranberries.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Catch Me Crying",
+      "artist": "Nina Persson",
+      "has_synced": true,
+      "path": "select/09_Catch_Me_Crying_Nina_Persson.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Catch-Me-If-You-Can",
+      "artist": "Dave Brubeck",
+      "has_synced": false,
+      "path": "select/10_Catch-Me-If-You-Can_Dave_Brubeck.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Catch Me When I Fall",
+      "artist": "The Corrs",
+      "has_synced": true,
+      "path": "select/11_Catch_Me_When_I_Fall_The_Corrs.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Catch Me In The Air",
+      "artist": "Rina Sawayama",
+      "has_synced": true,
+      "path": "select/12_Catch_Me_In_The_Air_Rina_Sawayama.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Can't Catch Me",
+      "artist": "Lita Ford",
+      "has_synced": true,
+      "path": "select/13_Can't_Catch_Me_Lita_Ford.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Can't Catch Me",
+      "artist": "Lita Ford",
+      "has_synced": true,
+      "path": "select/14_Can't_Catch_Me_Lita_Ford.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Can't Catch Me (Live)",
+      "artist": "Lita Ford",
+      "has_synced": false,
+      "path": "select/15_Can't_Catch_Me_(Live)_Lita_Ford.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "CATCH ME",
+      "artist": "THE ORAL CIGARETTES",
+      "has_synced": false,
+      "path": "select/pl_01_CATCH_ME_THE_ORAL_CIGARETTES.txt"
+    }
+  ]
+}
